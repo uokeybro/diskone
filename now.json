@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://dev-lazad.pantheonsite.io/$1"}
+  	{"src": "/(.*)","dest": "https://dev-diskone-diskon-100percent.pantheonsite.io/$1"}
   ]
 }
